@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 💬I have 18+ years of experience as integration developer currently focusing on transition towards Data Engineering (Microsoft Fabric) 
 
 🌱 I am familiar with  
-        &emsp; Fabric Lakehouse & OneLake concepts  
-        * Data Pipelines (ADF‑style orchestration)  
-        * Dataflows Gen2  
-        * Real‑Time Analytics (KQL, event ingestion)  
-        * Delta Lake fundamentals  
-        * Power BI semantic models  
+        &emsp;&emsp;&emsp; Fabric Lakehouse & OneLake concepts  
+        &emsp;&emsp;&emsp; Data Pipelines (ADF‑style orchestration)  
+        &emsp;&emsp;&emsp; Dataflows Gen2  
+        &emsp;&emsp;&emsp; Real‑Time Analytics (KQL, event ingestion)  
+        &emsp;&emsp;&emsp; Delta Lake fundamentals  
+        &emsp;&emsp;&emsp; Power BI semantic models  
