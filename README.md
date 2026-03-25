@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have 18+ years of experience as integration developer currently focusing on transition towards Data Engineering (Microsoft Fabric) 
-I am familiar with  
+💬I have 18+ years of experience as integration developer currently focusing on transition towards Data Engineering (Microsoft Fabric) 
+
+🌱 I am familiar with  
       Fabric Lakehouse & OneLake concepts
       Data Pipelines (ADF‑style orchestration)
       Dataflows Gen2
-      Real‑Time Analytics (KQL, event ingestion) 
-
-Delta Lake fundamentals 
-
-Power BI semantic models 
+      Real‑Time Analytics (KQL, event ingestion)
+      Delta Lake fundamentals
+      Power BI semantic models
